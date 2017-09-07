@@ -1,0 +1,7 @@
+{
+  "token": "put_your_token_here",
+  "api_url": "http://api.repo.nypl.org/api/v1/",
+  "img_url" : "http://images.nypl.org/index.php?id=",
+  "data_path" : "C:\\dev\\nypl_pd_collection_grab_data",
+  "pd_collections" : "pd_collections.csv"
+}
