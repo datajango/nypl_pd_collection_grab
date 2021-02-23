@@ -57,11 +57,11 @@ The New York Public Library released a Digital Collections API. This project is 
 
 The POC takes a term such as "Aegypten" and searches for matches, it then creates a folder with the UUID of the collection and proceeds to download every image.
 
-Top level folders are created.
+Top level folders are created using the UUID which is unique.
 
 ![top-level-folders](./top-level-folders.png)
 
-The sub-folders contain the downloaded images from each collection.
+The sub-folders contain the downloaded images from each collection.  All image sizes are downloaded, but a filter can be applied to download only a specific size.
 
 ![sub-folder-egyptian](./sub-folder-egyptian.png)
 
